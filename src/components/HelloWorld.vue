@@ -4,7 +4,7 @@
     <p>
       电商项目<br>
       check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">11111111111111111111111111啊实打实打算</a>.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">22222222222</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
